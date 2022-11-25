@@ -1,6 +1,6 @@
-# Maksim Novichkov <h1>
+# Maksim Novichkov
   
-## My Contact Info <h2>
+## My Contact Info
   
 Phone: +995 595513193
 
