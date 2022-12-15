@@ -1,1 +1,28 @@
-222
+.header { 
+    background-color:rgb(191, 212, 192);
+    padding-left: 30px; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 4px double black;
+}
+
+.main {
+    background-color: #D3D3D3; 
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 4px double black;
+}
+
+.footer {
+    background-color: #989898; 
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 4px double black;
+}
+
+.main-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
